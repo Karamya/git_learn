@@ -1,7 +1,7 @@
 @Author: karthick
 @Date:   2017-08-14T18:52:28+02:00
 @Last modified by:   karthick
-@Last modified time: 2017-08-14T19:01:39+02:00
+@Last modified time: 2017-08-14T19:45:54+02:00
 
 mkdir new_project
 cd new_project
@@ -16,3 +16,13 @@ git add index.html
 git commit --message "Basic html skeleton"
 
 git status
+
+git diff
+
+git log
+
+git branch "my_feature"
+
+
+
+###pink background####
